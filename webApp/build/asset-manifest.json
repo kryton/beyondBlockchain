@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eos.betnow.io/static/css/main.a0792503.chunk.css",
+    "main.js": "https://eos.betnow.io/static/js/main.69890f73.chunk.js",
+    "runtime-main.js": "https://eos.betnow.io/static/js/runtime-main.da55734d.js",
+    "static/js/2.89af4367.chunk.js": "https://eos.betnow.io/static/js/2.89af4367.chunk.js",
+    "index.html": "https://eos.betnow.io/index.html",
+    "precache-manifest.9ad987643438c29af6d798fd1724572e.js": "https://eos.betnow.io/precache-manifest.9ad987643438c29af6d798fd1724572e.js",
+    "service-worker.js": "https://eos.betnow.io/service-worker.js",
+    "static/js/2.89af4367.chunk.js.LICENSE.txt": "https://eos.betnow.io/static/js/2.89af4367.chunk.js.LICENSE.txt",
+    "static/media/BetNowLogoSimple.png": "https://eos.betnow.io/static/media/BetNowLogoSimple.c9782283.png",
+    "static/media/sidebar.jpg": "https://eos.betnow.io/static/media/sidebar.50cf9e39.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da55734d.js",
+    "static/js/2.89af4367.chunk.js",
+    "static/css/main.a0792503.chunk.css",
+    "static/js/main.69890f73.chunk.js"
+  ]
+}
